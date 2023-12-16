@@ -1,0 +1,2 @@
+# aleoproject
+project aera
